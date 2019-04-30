@@ -58,7 +58,7 @@ postgres=# alter user mymdb createdb;
 exit the postgres shell
 
 ```
-postgres=# \q;
+postgres=# \q
 ```
 
 ### Run migrations and create a super user
